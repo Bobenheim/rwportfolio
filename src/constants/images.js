@@ -36,14 +36,14 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
-import html3D from '../assets/html3D.png';
-import JS3D from '../assets/JS3D.png';
-import css33D from '../assets/css33D.png';
+import html3D from '../assets/html3D.webp';
+import JS3D from '../assets/JS3D.webp';
+import css33D from '../assets/css33D.webp';
 import responsive3D from '../assets/responsive3D.png';
 import teamwork3D from '../assets/teamwork3D.jpg';
 import design3D from '../assets/css33D.png';
 import community3D from '../assets/css33D.png';
-import character3D from '../assets/character3D.png';
+import character3D from '../assets/character3D.webp';
 import RW from '../assets/RW.png'
 
 export default {
